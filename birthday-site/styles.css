@@ -1,0 +1,146 @@
+body {
+    text-align: center;
+    font-family: 'Long Cang', cursive;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: bisque;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 3px black;
+}
+
+#title {
+    font-size: 50px;
+}
+
+
+#mom-img {
+    width: 300px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9;
+    margin-bottom: 10px;
+}
+
+
+#bday-date {
+    margin: 0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background: bisque;
+    background-image: url("images/gift-wrap.png");
+    background-size: cover;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+
+
+#gift-img-happy1:hover {
+    background-image: url("images/happy1.jpg");
+}
+
+#gift-img-happy2:hover {
+    background-image: url("images/happy2.jpg");
+}
+
+#gift-img-sweet1:hover {
+    background-image: url("images/sweet1.jpeg");
+}
+
+#gift-img-sweet2:hover {
+    background-image: url("images/sweet2.jpeg");
+}
+
+#gift-img-growth1:hover {
+    background-image: url("images/growth1.jpg");
+}
+
+#gift-img-growth2:hover {
+    background-image: url("images/growth2.jpg");
+}
+
+#gift-img-growth3:hover {
+    background-image: url("images/growth3.jpg");
+}
+ 
+#gift-img-growth3 {
+     height: 270px;
+}   
+
+#gift-img-travel1:hover {
+    background-image: url("images/travel1.jpg");
+}
+
+#gift-img-travel2:hover {
+    background-image: url("images/travel2.jpg");
+}
+
+#gift-img-travel3 {
+    height: 290px;
+}
+
+#gift-img-travel3:hover {
+    background-image: url("images/travel3.jpg");
+}
+
+#gift-img-travel4 {
+    height: 290px;
+}
+
+#gift-img-travel4:hover {
+    background-image: url("images/travel4.jpg");
+}
+
+#gift-img-photo1 {
+    height: 650px;
+    background-size: 520px 550px;
+}
+
+#gift-img-photo1:hover {
+    background-image: url("images/photo1.jpg");
+    background-size: 400px 650px;
+}
+
+#gift-img-photo2:hover {
+    background-image: url("images/photo2.jpg");
+}
+
+#gift-img-photo3:hover {
+    background-image: url("images/photo3.jpg");
+}
+
+
+#footer {
+    font-size: 30px;
+    width: 400px;
+    margin: 40px auto 20px;
+    padding: 0 0 20px 0;
+}
+
+
+
